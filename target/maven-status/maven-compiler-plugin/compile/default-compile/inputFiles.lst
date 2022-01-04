@@ -1,0 +1,8 @@
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/util/Util.java
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/model/User.java
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserService.java
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/Main.java
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDao.java
+/home/taiphin/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java
