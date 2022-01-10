@@ -3,7 +3,7 @@ package jm.task.core.jdbc;
 import jm.task.core.jdbc.service.UserServiceImpl;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         UserServiceImpl userServiceImpl = new UserServiceImpl();
         userServiceImpl.createUsersTable();
         userServiceImpl.saveUser("Алекс","Болдуин",(byte)(42));
